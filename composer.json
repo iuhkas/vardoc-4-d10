@@ -148,16 +148,6 @@
     "composer-exit-on-patch-failure": true,
     "patchLevel": {
       "drupal/core": "-p2"
-    },
-    "patches": {
-      "drupal/core": {
-        "Issue #3266057: Allow profiles to define a base/parent profile [continue of #1356276]":
-        "https://www.drupal.org/files/issues/2023-11-30/3266057-120.patch"
-      },
-      "drupal/votingapi_widgets": {
-        "Issue #3333559: [9.2] Remove jQuery dependency from the once feature":
-        "https://www.drupal.org/files/issues/2023-10-21/3333559-42.patch"
-      }
     }
   }
 }
